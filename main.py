@@ -12,3 +12,6 @@ def method3():
 def method4():
     print(123456)
 
+def method5():
+    print(123456)
+
