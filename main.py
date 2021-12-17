@@ -43,5 +43,8 @@ def method13():
 def method14():
     print(12345678)
 
+def method15():
+    print(12345678)
+
 
 
