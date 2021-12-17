@@ -46,5 +46,11 @@ def method14():
 def method15():
     print(12345678)
 
+def method16():
+    print(12345678)
+
+def method17():
+    print(12345678)
+
 
 
