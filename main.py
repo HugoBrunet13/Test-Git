@@ -18,3 +18,6 @@ def method5():
 def method6():
     print(1234567)
 
+def method7():
+    print(12345678)
+
