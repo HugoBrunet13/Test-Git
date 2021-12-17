@@ -27,4 +27,10 @@ def method8():
 def method9():
     print(12345678)
 
+def method10():
+    print(12345678)
+
+def method11():
+    print(12345678)
+
 
