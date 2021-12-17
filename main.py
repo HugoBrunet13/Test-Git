@@ -33,8 +33,11 @@ def method10():
 def method11():
     print(12345678)
 
-def method11():
+def method12():
     print(12345678)
-    
+
+def method13():
+    print(12345678)
+
 
 
