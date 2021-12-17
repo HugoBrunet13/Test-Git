@@ -15,3 +15,29 @@ def method4():
 def method5():
     print(123456)
 
+def method6():
+    print(1234567)
+
+def method7():
+    print(12345678)
+
+def method8():
+    print(12345678)
+
+def method9():
+    print(12345678)
+
+def method10():
+    print(12345678)
+
+def method11():
+    print(12345678)
+
+def method12():
+    print(12345678)
+
+def method13():
+    print(12345678)
+
+
+
