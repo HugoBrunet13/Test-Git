@@ -1,3 +1,5 @@
+""" Test PyLint Github action """
+
 
 def method1():
     """ method1() """
